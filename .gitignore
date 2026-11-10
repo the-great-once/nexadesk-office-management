@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local SQLite database runtime files (auto-created & seeded on startup)
+data/
+
+# Environment & logs
+.env
+.env.*
+*.log
+
+# OS & editor files
+.DS_Store
+.vscode/
+.idea/
